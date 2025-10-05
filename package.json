@@ -1,0 +1,19 @@
+{
+  "name": "markdown-to-wx",
+  "version": "1.0.0",
+  "description": "微信公众号 Markdown 排版编辑器",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "highlight.js": "^11.11.1",
+    "marked": "^5.1.0",
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.0",
+    "vite": "^4.3.0"
+  }
+}
